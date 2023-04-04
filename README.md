@@ -12,6 +12,7 @@ I'm a Frontend web developer, Content Creator, and Content writter who is curren
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/13am7XQaY0SXg0gVkbnILwJMfLaDCIC3W/edit#heading=h.gjdgxs) and contact me by emailing johnsonzagazor06@gmail.com.
+- 💼you cav [view my PORTFOLIO](https://portfolio-40441.web.app/)
 
 ---
 
