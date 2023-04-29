@@ -8,7 +8,7 @@ I'm a Frontend web developer, Content Creator, and Content writter who is curren
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning HTML, css, javascript and React.js.
+- 🌱 I’m currently learning HTML, css, javascript and React.js/Vue.js and typescript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1wa2PUwr0RC11DDTY0m-bshC3X_s3Mhbc/view?usp=share_link) and contact me by emailing johnsonzagazor06@gmail.com.
